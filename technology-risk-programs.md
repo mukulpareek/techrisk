@@ -6,53 +6,40 @@ Technology risk however is more extensive in scope than just cybersecurity.  It 
 
 Generally, Technology Risk includes the following programs:
 
+1. Managing policies 
+   * Technology risk management framework
+2. Managing the control framework
+   * Building and maintaining the control framework
+   * Control self-assessment/testing
+   * Technology risk appetite
+   * Measuring policy compliance
+   * Building a control framework
+3. IT governance 
+   * Managing risk committees
+   * Managing to and reporting on risk appetite
+4. Risk assessments:
+   * Application risk assessments
+   * Infrastructure risk assessments
+   * Process risk assessments
+5. Issue Management - including managing policy & control exceptions
+6. Disaster recovery and business resilience
+7. Identity and access management
+8. Third party risk
+9. Change management
+10. Production control and security incident management
+11. Project management risk
+12. Legacy hardware and software \(EOL\)
+13. Privacy and compliance program support
+14. Emerging risk reviews
+15. Employee training and awareness
+16. Shadow IT/End user computing
+17. Audit management
+18. Others:
+    * Hardware and software inventory maintenance
+    * Software license compliance
+    * Emerging risk reviews
+    * Remote workplace infrastructure
+    * IT Inventory maintenance \(h/w and s/w\)
 
-
-1. Managing policies and the control framework  
-
-* Technology risk management framework
-* Technology risk appetite
-* Measuring policy compliance
-* Building a control framework
-
-2. Risk assessments
-
-2.  
-
-2. Risk assessments 
-
-1. Change management and production control risks  \(includes security incident management\)  
-2. Project management risk  
-
-4. Disaster recovery and business resilience
-
-5. Identity and access management
-
-6. Legacy hardware and software
-
-7. Privacy and compliance
-
-8. IT governance
-
-9. Third party risk  
-
-10. Emerging risk reviews  
-
-11. Employee training and awareness  
-
-12. Shadow IT/End user computing
-
-13. Audit management  
-
-4. Others:
-
-* Hardware and software inventory maintenance
-* Software license compliance
-* Emerging risk reviews
-* Remote workplace infrastructure
-
-  b. Inventory maintenance
-
-1. 
 
 

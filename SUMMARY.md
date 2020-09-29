@@ -2,5 +2,7 @@
 
 * [Initial page](README.md)
 * [Technology Risk Programs](technology-risk-programs.md)
-* [Untitled](untitled.md)
+* [Communication](untitled.md)
+* [Infosec Programs](infosec-programs.md)
+* [Policies and Standards](policies-and-standards.md)
 
